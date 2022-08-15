@@ -3,7 +3,7 @@
 -  I Am Brazilian
 - 👋 Hi, I’m @rafaelsoouza
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript, Python and React JS.
+- 🌱 I’m currently learning JavaScript, React JS.
 -  📫 How to reach me : @rafaelsoouza Instagram
 
 
