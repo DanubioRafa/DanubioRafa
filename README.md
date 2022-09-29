@@ -1,11 +1,12 @@
 ## Hello my name is Danubio Rafael learn more about me below
 
 -  I Am Brazilian
-- 👋 Hi, I’m @rafaelsoouza
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m Danubio
+- 👀 
 - 🌱 I’m currently learning JavaScript, React JS.
--  📫 How to reach me : @rafaelsoouza Instagram
-
+-  📫 Contatos :
+- Linkedin - Danubio Rafael - https://www.linkedin.com/in/danubiorafael/
+- Email - danubio.rafaeel@gmail.com
 
 <div align="center">
   <a href="https://www.instagram.com/rafaelsoouza/">
