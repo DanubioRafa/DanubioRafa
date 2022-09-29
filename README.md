@@ -1,12 +1,33 @@
-## Hello my name is Danubio Rafael learn more about me below
+<h1>Olá! </h1>
 
--  I Am Brazilian
-- 👋 Hi, I’m Danubio
-- 👀 
-- 🌱 I’m currently learning JavaScript, React JS.
--  📫 Contatos :
-- Linkedin - Danubio Rafael - https://www.linkedin.com/in/danubiorafael/
-- Email - danubio.rafaeel@gmail.com
+```js
+const name = 'Danubio Rafael';
+document.write("Hello World");
+
+var status = { 
+  cursando: [Desenvolvimento Full Stack na Trybe],
+  aprendendo: [Node.JS],
+  interesse: [Front-End]
+}
+
+const skills = {
+  frontend: [Javascript, HTML, CSS, Git, React, Browser Router, RTL, Redux, Jest, SASS/SCSS],
+  
+  backend: [Docker, SQL, Node.JS, APIs Rest],
+  
+  metodologiasAgeis: [Scrum, Kanban]
+}
+
+```
+
+<h3 align="left">Onde me encontrar?</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/danubiorafael/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profthiago" /></a>
+
+
+- 📖 Atualmente estou cursando Desenvolvimento Full Stack na Trybe
+
+- 📫 Email **danubio.rafaeel@gmail.com**
 
 <div align="center">
   <a href="https://www.instagram.com/rafaelsoouza/">
