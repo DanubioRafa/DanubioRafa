@@ -6,14 +6,14 @@ document.write("Hello World");
 
 var status = { 
   cursando: [Desenvolvimento Full Stack na Trybe],
-  aprendendo: [Node.JS],
+  aprendendo: [Mongo DB],
   interesse: [Front-End]
 }
 
 const skills = {
-  frontend: [Javascript, HTML, CSS, Git, React, Browser Router, RTL, Redux, Jest, SASS/SCSS],
+  frontend: [Javascript, Typescript, HTML, CSS, Git, React, Browser Router, RTL, Redux, Jest, SASS/SCSS],
   
-  backend: [Docker, SQL, Node.JS, APIs Rest],
+  backend: [Docker, SQL, Node.JS, APIs Rest, POO],
   
   metodologiasAgeis: [Scrum, Kanban]
 }
