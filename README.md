@@ -15,7 +15,7 @@ const skills = {
   
   backend: [Docker, SQL, MySQL, Sequelize, Node.JS, APIs Rest, POO, NoSQL, MongoDB, Mongoose],
   
-  outras: [ Figma ],
+  outras: [ Figma, Python ],
   
   metodologiasAgeis: [Scrum, Kanban]
 }
